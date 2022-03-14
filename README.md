@@ -2,7 +2,7 @@
 
 ### I build interactive web experiences for brands who are passionate about their vision and ambitious about their impact.
 
-I specialize in working with brands in entertainment, technology, fashion and lifestyle.
+I specialize in working with brands in entertainment, fashion and lifestyle.
 
 I am currently looking for opportunities to build complete web experiences (strategy, design, technology) or front-end/creative development roles with brands and agencies.
 
